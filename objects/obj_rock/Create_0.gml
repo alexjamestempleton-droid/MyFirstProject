@@ -1,6 +1,7 @@
 spd = 4; 
 
 // Choose a random rock sprite
+// Hi Alex 
 switch (irandom_range(1, 3)) {
     case 1: sprite_index = spr_rock_1; break;
     case 2: sprite_index = spr_rock_2; break;
