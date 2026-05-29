@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"begin_game_run",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"begin_game_run",
+  "parent":{
+    "name":"OceanNew",
+    "path":"OceanNew.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

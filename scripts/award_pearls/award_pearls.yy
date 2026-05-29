@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"award_pearls",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"award_pearls",
+  "parent":{
+    "name":"OceanNew",
+    "path":"OceanNew.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

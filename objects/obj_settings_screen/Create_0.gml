@@ -1,0 +1,1 @@
+selected = 0; // 0 = volume, 1 = mute, 2 = back

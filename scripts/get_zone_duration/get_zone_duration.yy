@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_zone_duration",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_zone_duration",
+  "parent":{
+    "name":"OceanNew",
+    "path":"OceanNew.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

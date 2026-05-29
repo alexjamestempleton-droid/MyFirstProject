@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_difficulty",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_difficulty",
+  "parent":{
+    "name":"OceanNew",
+    "path":"OceanNew.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
